@@ -1,4 +1,4 @@
-![alt-text](https://github.com/HeorhiiS/HeorhiiS/blob/master/coding.gif)
+![alt-text](coding.gif)
 
 <!--
 **heors/heors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
