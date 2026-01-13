@@ -1,4 +1,6 @@
-![alt-text](coding.gif)
+<p align="center">
+  <img src="coding.gif" width="600" alt="coding animation">
+</p>
 
 <!--
 **heors/heors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
